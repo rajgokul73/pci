@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096644777339",
+    "firebase_url": "https://pciapp-f1a00.firebaseio.com",
+    "project_id": "pciapp-f1a00",
+    "storage_bucket": "pciapp-f1a00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096644777339:android:e9546188a934e287e899de",
+        "android_client_info": {
+          "package_name": "com.example.pci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096644777339-2qvcqfv4ean873h5tq1d5g4o9jssjnpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHcd78-CG4t4YraStijQSSNaz2tr-87MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096644777339-2qvcqfv4ean873h5tq1d5g4o9jssjnpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
